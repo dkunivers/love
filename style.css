@@ -3,6 +3,8 @@
     margin: 0px;
 }
 body{
+    width: 100%
+    heidth: 100hv
     background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
     
 
@@ -13,7 +15,6 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: 170px;
 }
 .cartafundo{
     width: 200px;
